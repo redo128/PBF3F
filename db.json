@@ -23,5 +23,10 @@
             {"id" : 3, "nama" : "PASTI", "sekretariat" : "Gedung AS"},
             {"id" : 4, "nama" : "USMA", "sekretariat" : "Gedung AS"},
             {"id" : 5, "nama" : "SENI", "sekretariat" : "Gedung AS"}
-        ]
+        ],
+    "kuis":[
+    {"id":1,"judul":"Avatar","price":"Rp.10.000"},
+    {"id":2,"judul":"Big Hero 6","price":"Rp.10.000"},
+    {"id":3,"judul":"Big Hero 6","price":"Rp.10.000"}
+]
     }
