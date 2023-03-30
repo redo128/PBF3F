@@ -25,8 +25,8 @@
             {"id" : 5, "nama" : "SENI", "sekretariat" : "Gedung AS"}
         ],
     "kuis":[
-    {"id":1,"judul":"Avatar","price":"Rp.10.000","Rating":"15+","gambar":"avatar.jpg"},
-    {"id":2,"judul":"Big Hero 6","price":"Rp.10.000","Rating":"15+","gambar":"bighero6.jpg"},
-    {"id":3,"judul":"Suzume","price":"Rp.10.000","Rating":"15+","gambar":"suzume.jpg"}
+    {"id":1,"judul":"Avatar","price":"Rp.10.000","Rating":"15+","gambar":"avatar.jpg","link":"https://id.wikipedia.org/wiki/Avatar_(film)","deskripsi":"Hiro Hamada adalah bocah ahli robotik berumur 14 tahun. Dia tinggal di kota metropolitan San-Fransokyo dan menghabiskan kesehariannya bergabung dalam pertarungan robot ilegal. Kakak Hiro, Tadashi takut Hiro akan menyia-nyiakan potensinya..."},
+    {"id":2,"judul":"Big Hero 6","price":"Rp.10.000","Rating":"15+","gambar":"bighero6.jpg","link":"https://id.wikipedia.org/wiki/Big_Hero_6_(film)","deskripsi":"Pada tahun 2154, manusia telah menghabiskan sumber daya alam bumi yang menyebabkan krisis energi yang parah. Administrasi Pengembangan Sumber Daya (Resources Development Administration atau RDA) menambang mineral berharga - unobtanium - di Pandora....."},
+    {"id":3,"judul":"Suzume","price":"Rp.10.000","Rating":"15+","gambar":"suzume.jpg","link":"https://id.wikipedia.org/wiki/Suzume","deskripsi":"Suzume Iwato adalah seorang gadis SMA berusia 17 tahun yang tinggal bersama bibinya di sebuah kota kecil di Miyazaki. Suatu hari dia melihat mimpi di mana dia masih kecil dan mencari ibunya. Setelah beberapa saat....."}
 ]
     }
